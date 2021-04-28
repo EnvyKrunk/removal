@@ -1,0 +1,16 @@
+/* Removal */
+
+#aMerger,
+#newsHolder,
+#youNewDiv,
+#onetrust-consent-sdk,
+#wepKey,
+.imageButton,
+#editorBtnM,
+.headerBarRight .verticalSeparator,
+#seasonLabel,
+#instructions,
+.krSocial,
+#mailCount{
+    display: none!important
+}
