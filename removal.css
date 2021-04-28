@@ -11,6 +11,7 @@
 #seasonLabel,
 #instructions,
 .krSocial,
-#mailCount{
-    display: none!important
+#mailCount,
+#uiBase.onMenu #voiceDisplay{
+    display: none!important;
 }
