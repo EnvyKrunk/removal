@@ -14,6 +14,7 @@
 .krSocial,
 #mailCount,
 #uiBase.onMenu #voiceDisplay,
-#bubbleContainer{
+#bubbleContainer,
+.endAHolder{
     display: none!important;
 }
