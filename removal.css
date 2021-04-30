@@ -15,6 +15,7 @@
 #mailCount,
 #uiBase.onMenu #voiceDisplay,
 #bubbleContainer,
-.endAHolder{
+.endAHolder,
+#igXPBar{
     display: none!important;
 }
