@@ -16,6 +16,7 @@
 #uiBase.onMenu #voiceDisplay,
 #bubbleContainer,
 .endAHolder,
-#igXPBar{
+#igXPBar,
+.button.small.buttonO img{
     display: none!important;
 }
