@@ -17,6 +17,7 @@
 #bubbleContainer,
 .endAHolder,
 #igXPBar,
-.button.small.buttonO img{
+.button.small.buttonO img,
+#tlInfHold{
     display: none!important;
 }
