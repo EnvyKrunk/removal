@@ -17,7 +17,8 @@
 .endAHolder,
 #igXPBar,
 .button.small.buttonO img,
-#tlInfHold{
+#tlInfHold,
+#loadEditrBtn{
     display: none!important;
 }
 
