@@ -18,7 +18,8 @@
 #igXPBar,
 .button.small.buttonO img,
 #tlInfHold,
-#loadEditrBtn{
+#loadEditrBtn,
+.settingsBtn[onclick="openOneTrust()"]{
     display: none!important;
 }
 
