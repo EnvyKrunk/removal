@@ -33,3 +33,9 @@
 .setSugBox{
     display: none    
 }
+
+#uiBase.onCompMenu #timerDisplay{
+    position: unset;
+    transform: unset;
+    padding: 10px
+}
