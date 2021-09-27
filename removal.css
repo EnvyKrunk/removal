@@ -19,7 +19,8 @@
 .button.small.buttonO img,
 #tlInfHold,
 #loadEditrBtn,
-.settingsBtn[onclick="openOneTrust()"]{
+.settingsBtn[onclick="openOneTrust()"],
+.menuSocialB{
     display: none!important;
 }
 
