@@ -1,6 +1,9 @@
+/* Updated 11/20 */
+
 /* Removal */
 #clientExit,
 #aMerger,
+#rankedSoonTm,
 #newsHolder,
 #youNewDiv,
 #onetrust-consent-sdk,
@@ -23,8 +26,6 @@
 .menuSocialB{
     display: none!important;
 }
-
-/* Update 7/22 */
 
 .button,
 .button:hover{
