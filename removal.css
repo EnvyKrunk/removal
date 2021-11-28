@@ -28,16 +28,11 @@
 }
 
 .button,
-.button:hover{
+.button:hover,
+.quickJoin{
 	border: hidden!important
 }
 
-.setSugBox{
+.setSugBox2{
     display: none    
-}
-
-#uiBase.onCompMenu #timerDisplay{
-    position: unset;
-    transform: unset;
-    padding: 10px
 }
