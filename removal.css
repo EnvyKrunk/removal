@@ -36,3 +36,16 @@
 .setSugBox2{
     display: none    
 }
+
+/* COMP */
+
+iframe#bigMFeatVid,
+.itemOwn,
+.itemSea,
+#cmpPartnerImg,
+#cmpLeavInfo,
+#cmpDatBox,
+#cmpStatBox .material-icons,
+#cmpStatBox .material-icons+span{
+	display: none!important
+}
