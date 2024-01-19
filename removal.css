@@ -1,6 +1,7 @@
-/* Updated 11/20 */
+/* Updated 1//19/24 */
 
 /* Removal */
+
 #clientExit,
 #aMerger,
 #rankedSoonTm,
@@ -23,18 +24,22 @@
 #tlInfHold,
 #loadEditrBtn,
 .settingsBtn[onclick="openOneTrust()"],
-.menuSocialB{
-    display: none!important;
+.menuSocialB,
+#topRightAdHolder,
+.setSugBox2 {
+  display: none !important;
 }
 
 .button,
 .button:hover,
-.quickJoin{
-	border: hidden!important
+.quickJoin,
+.setHed,
+.sliderVal {
+  border: hidden !important;
 }
 
-.setSugBox2{
-    display: none    
+#streamContainer {
+  background-color: transparent;
 }
 
 /* COMP */
@@ -46,6 +51,6 @@ iframe#bigMFeatVid,
 #cmpLeavInfo,
 #cmpDatBox,
 #cmpStatBox .material-icons,
-#cmpStatBox .material-icons+span{
-	display: none!important
+#cmpStatBox .material-icons + span {
+  display: none !important;
 }
