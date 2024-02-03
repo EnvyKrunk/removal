@@ -10,7 +10,7 @@
 
 ## Use
 
-- copy & paste the following line of code blow to the top of your `main_custom.css` css file
+- copy & paste the following line of code to the top of your `main_custom.css` css file
 
 ```sh
 @import url(https://envyxyz.github.io/removal/removal.css);
